@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ekciv
+- 👋 Hi, I’m Victor @Ekciv
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Html, Css & Javascript
 <!---
